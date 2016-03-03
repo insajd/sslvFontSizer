@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         SS.LV font sizer
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/insajd/sslvFontSizer/
+// @updateURL    https://github.com/insajd/sslvFontSizer/raw/master/SS.LV.font.sizer.user.js
+// @downloadURL  https://github.com/insajd/sslvFontSizer/raw/master/SS.LV.font.sizer.user.js
 // @version      0.1
 // @description  Change font sizes on ss.lv page based on ad count in given categories
 // @author       @insajd
